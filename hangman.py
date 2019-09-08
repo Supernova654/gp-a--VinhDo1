@@ -7,7 +7,7 @@ import random
 
 secretWord= input("Enter a word: ").lower()
 numberOfGuessesLeft= 5
-
+#nice comment
 #Populates the hidden word string with correct number of "-"
 #secretWord = secretWord[::-1]
 hiddenWord= "["
