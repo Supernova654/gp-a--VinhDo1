@@ -42,4 +42,3 @@ while (numberOfGuessesLeft>0):
     # if user is out of guesses
     if (numberOfGuessesLeft==0):
         print ('You lose! The word was "'+ secretWord.upper()+'"')
-input('Press ENTER to exit')
