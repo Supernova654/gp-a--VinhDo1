@@ -51,4 +51,4 @@ if turn:
     print("The player wins!")
 else:
     print("The computer wins!")
-input('Press ENTER to exit')
+input("Press Enter to exit")
